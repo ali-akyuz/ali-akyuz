@@ -13,7 +13,6 @@
 <a href="https://www.linkedin.com/in/ali-akyuz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-akyuz" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/aliakyuz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aliakyuz0" height="30" width="40" /></a>
 <a href="https://instagram.com/alii_akyuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alii_akyuz" height="30" width="40" /></a>
-<a href="https://linktr.ee/aliakyuz" target="blank"><img align="center" src="https://cdn.prod.website-files.com/666255f7f2126f4e8cec6f8f/66634daccb34e6d65a41c76d_download.svg" alt="aliakyuz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
