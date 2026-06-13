@@ -26,19 +26,19 @@ Python-based metro transportation simulation implementing graph data structures 
 
 ## 🛠️ Tech Stack
 
-Frontend
+Frontend : 
 React, JavaScript
 
-Backend
+Backend :
 Node.js, Express
 
-Database
+Database :
 Sequelize, PostgreSQL
 
-AI/Data
+AI/Data : 
 Python, Pandas, Scikit-Learn
 
-Tools
+Tools :
 Git, GitHub
 
 ## 📫 Contact
@@ -46,8 +46,6 @@ Git, GitHub
 - Portfolio: https://ali-akyuz.github.io
 - LinkedIn: https://www.linkedin.com/in/ali-akyuz/
 - Email: ali-akyuz@outlook.com
-
-- 🌱 I’m currently learning **C and Python**
 
 - 📫 How to reach me **ali-akyuz@outlook.com**
 
