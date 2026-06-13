@@ -41,6 +41,8 @@ Python, Pandas, Scikit-Learn
 Tools :
 Git, GitHub
 
+JavaScript • React • Node.js • Express • Sequelize • Python • Pandas • Scikit-Learn • Git • GitHub
+
 ## 📫 Contact
 
 - Portfolio: https://ali-akyuz.github.io
