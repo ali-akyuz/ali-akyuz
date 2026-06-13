@@ -41,7 +41,7 @@ Python, Pandas, Scikit-Learn •
 Tools :
 Git, GitHub
 
-Frontend:           Backend:             Database:   AI/Data :                       Tools:
+Frontend:    •       Backend:       •      Database:   •AI/Data :           •            Tools:
 JavaScript • React • Node.js • Express • Sequelize • Python • Pandas • Scikit-Learn • Git • GitHub
 
 ## 📫 Contact
