@@ -27,24 +27,16 @@ Python-based metro transportation simulation implementing graph data structures 
 ## 🛠️ Tech Stack
 
 Frontend : 
-React, JavaScript 
-
-•
+React, JavaScript •
 
 Backend :
-Node.js, Express
-
-•
+Node.js, Express •
 
 Database :
-Sequelize, PostgreSQL
-
-•
+Sequelize, PostgreSQL •
 
 AI/Data : 
-Python, Pandas, Scikit-Learn
-
-•
+Python, Pandas, Scikit-Learn •
 
 Tools :
 Git, GitHub
