@@ -4,6 +4,36 @@
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=ali-akyuz&label=Profile%20views&color=0e75b6&style=flat" alt="ali-akyuz" /> </p>
 
 
+# Hi, I'm Ali Akyüz 👋
+
+Software Engineering student focused on full-stack development, backend systems and AI-powered applications.
+
+I build web applications, automation tools and data-driven projects using JavaScript, React, Node.js, Express, Python and machine learning libraries.
+
+## 🚀 Featured Projects
+
+### TaskFlow Project
+Full-stack task management platform developed with React, Node.js, Express and Sequelize ORM. Includes user authentication, task organization, relational database design and RESTful API integration.
+
+### RentFlow
+Full-stack property rental management platform that enables landlords to manage tenants, rental agreements and payment records through a centralized dashboard.
+
+### Credit Risk Project
+Machine learning project that predicts customer credit risk using financial and behavioral data. Includes data preprocessing, feature engineering, model training and performance evaluation.
+
+### Metro Simulation
+Python-based metro transportation simulation implementing graph data structures and shortest path algorithms.
+
+## 🛠️ Tech Stack
+
+JavaScript • React • Node.js • Express • Sequelize • Python • Pandas • Scikit-Learn • Git • GitHub
+
+## 📫 Contact
+
+- Portfolio: https://ali-akyuz.github.io
+- LinkedIn: https://www.linkedin.com/in/ali-akyuz/
+- Email: ali-akyuz@outlook.com
+
 - 🌱 I’m currently learning **C and Python**
 
 - 📫 How to reach me **ali-akyuz@outlook.com**
