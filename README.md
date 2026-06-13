@@ -47,8 +47,6 @@ Git, GitHub
 - LinkedIn: https://www.linkedin.com/in/ali-akyuz/
 - Email: ali-akyuz@outlook.com
 
-- 📫 How to reach me **ali-akyuz@outlook.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ali-akyuz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-akyuz" height="30" width="40" /></a>
